@@ -1,0 +1,38 @@
+* {
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body{
+    background-color: rgb(197, 136, 255);
+
+}
+
+main {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 5px 10px 20px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+    
+}
+
+h1{
+    color: rgb(48, 0, 104);
+    font-size: 25px;
+}
+
+h2{
+    color: rgb(48, 0, 104);
+    font-size: 22px;
+}
+
+a{
+    color: rgb(48, 0, 104);
+    font-size: 18px;
+}
+
+img.lado{
+    float: right;
+}
